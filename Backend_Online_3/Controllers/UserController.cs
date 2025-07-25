@@ -1,9 +1,13 @@
 ﻿using Backend_Online_3.Irepository;
 using Backend_Online_3.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Backend_Online_3.Controllers
 {
+    //[Authorize]
+    [Route("api/[controller]")]
+    [ApiController]
     public class UserController : ControllerBase
     {
         private readonly IUserService _context;
@@ -24,12 +28,12 @@ namespace Backend_Online_3.Controllers
         {
             if (user == null)
             {
-                return BadRequest("User cannot be null");
+                return BadRequest("Người dùng không được để trống");
             }
             var createdUser = await _context.CreateUser(user);
             if (createdUser == null)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, "Error creating user");
+                return StatusCode(StatusCodes.Status500InternalServerError, "Đã xảy ra lỗi khi tạo người dùng");
             }
             return CreatedAtAction(nameof(GetAsync), new { id = createdUser.UserId }, createdUser);
         }
@@ -39,12 +43,12 @@ namespace Backend_Online_3.Controllers
         {
             if (id != user.UserId)
             {
-                return BadRequest("User ID mismatch");
+                return BadRequest("ID người dùng không khớp");
             }
             var updated = await _context.UpdateUser(id, user);
             if (!updated)
             {
-                return NotFound($"User with ID {id} not found");
+                return NotFound($"Không tìm thấy người dùng với ID: {id}");
             }
             return NoContent();
         }
@@ -55,7 +59,7 @@ namespace Backend_Online_3.Controllers
             var deleted = await _context.DeleteUser(id);
             if (!deleted)
             {
-                return NotFound($"User with ID {id} not found");
+                return NotFound($"Không tìm thấy người dùng với ID: {id}");
             }
             return NoContent();
         }

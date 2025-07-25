@@ -1,9 +1,11 @@
 ﻿using Backend_Online_3.Irepository;
 using Backend_Online_3.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Backend_Online_3.Controllers
 {
+    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class AllowAccessController : ControllerBase
@@ -22,43 +24,48 @@ namespace Backend_Online_3.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> createAsync([FromBody] AllowAccess allowAccess)
+        public async Task<IActionResult> CreateAsync([FromBody] AllowAccess allowAccess)
         {
             if (allowAccess == null)
             {
-                return BadRequest("AllowAccess cannot be null");
+                return BadRequest("Quyền truy cập không được để trống");
             }
+
             var createdAllowAccess = await _context.CreateAllowAccess(allowAccess);
             if (createdAllowAccess == null)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError, "Error creating AllowAccess");
+                return StatusCode(StatusCodes.Status500InternalServerError, "Đã xảy ra lỗi khi tạo quyền truy cập");
             }
+
             return CreatedAtAction(nameof(GetAsync), new { id = createdAllowAccess.AllowAccessId }, createdAllowAccess);
         }
 
         [HttpPut("{id}")]
-        public async Task<IActionResult> updateAsync(int id, [FromBody] AllowAccess allowAccess)
+        public async Task<IActionResult> UpdateAsync(int id, [FromBody] AllowAccess allowAccess)
         {
             if (id != allowAccess.AllowAccessId)
             {
-                return BadRequest("AllowAccess ID mismatch");
+                return BadRequest("ID quyền truy cập không khớp");
             }
+
             var updated = await _context.UpdateAllowAccess(id, allowAccess);
             if (!updated)
             {
-                return NotFound($"AllowAccess with ID {id} not found");
+                return NotFound($"Không tìm thấy quyền truy cập với ID {id}");
             }
+
             return NoContent();
         }
 
         [HttpDelete("{id}")]
-        public async Task<IActionResult> deleteAsync(int id)
+        public async Task<IActionResult> DeleteAsync(int id)
         {
             var deleted = await _context.DeleteAllowAccess(id);
             if (!deleted)
             {
-                return NotFound($"AllowAccess with ID {id} not found");
+                return NotFound($"Không tìm thấy quyền truy cập với ID {id}");
             }
+
             return NoContent();
         }
     }

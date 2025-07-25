@@ -1,27 +1,49 @@
-﻿using Backend_Online_3.Irepository;
+﻿using Backend_Online_3.Data;
+using Backend_Online_3.Irepository;
 using Backend_Online_3.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace Backend_Online_3.Service
 {
-    public class AllowAccessService :IAllowAccessService
+    public class AllowAccessService : IAllowAccessService
     {
-        public Task<IEnumerable<AllowAccess>> GetAllowAccesses()
+        private readonly BackendOnline3DbContext _context;
+
+        public AllowAccessService(BackendOnline3DbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
-        public Task<AllowAccess?> CreateAllowAccess(AllowAccess allowAccess)
+
+        public async Task<IEnumerable<AllowAccess>> GetAllowAccesses()
         {
-            throw new NotImplementedException();
+            return await _context.AllowAccess.ToListAsync();
         }
-        public Task<bool> UpdateAllowAccess(int id, AllowAccess allowAccess)
+
+        public async Task<AllowAccess?> CreateAllowAccess(AllowAccess allowAccess)
         {
-            throw new NotImplementedException();
+            _context.AllowAccess.Add(allowAccess);
+            await _context.SaveChangesAsync();
+            return allowAccess;
         }
-        public Task<bool> DeleteAllowAccess(int id)
+
+        public async Task<bool> UpdateAllowAccess(int id, AllowAccess allowAccess)
         {
-            throw new NotImplementedException();
+            var existing = await _context.AllowAccess.FindAsync(id);
+            if (existing == null) return false;
+
+            _context.Entry(existing).CurrentValues.SetValues(allowAccess);
+            await _context.SaveChangesAsync();
+            return true;
         }
-    }
-    {
+
+        public async Task<bool> DeleteAllowAccess(int id)
+        {
+            var access = await _context.AllowAccess.FindAsync(id);
+            if (access == null) return false;
+
+            _context.AllowAccess.Remove(access);
+            await _context.SaveChangesAsync();
+            return true;
+        }
     }
 }

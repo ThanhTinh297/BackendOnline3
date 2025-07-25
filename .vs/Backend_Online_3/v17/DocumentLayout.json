@@ -1,70 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\",
+  "WorkspaceRootPath": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\models\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\models\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\irepository\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\irepository\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\models\\allowaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\models\\allowaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\data\\backendonline3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\data\\backendonline3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\controllers\\allowaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\controllers\\allowaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\service\\allowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\service\\allowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\irepository\\iallowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\irepository\\iallowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\irepository\\iallowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\models\\allowaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\models\\allowaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\models\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\models\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\controllers\\interncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\controllers\\interncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\backend_online_3\\backend_online_3\\irepository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\service\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\controllers\\allowaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\controllers\\allowaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\service\\allowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\service\\allowaccessservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\irepository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\irepository\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\irepository\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\irepository\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|d:\\isc_hg\\bai_tap\\online_03\\be3_copy2\\backend_online_3\\data\\backendonline3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A13650D-F151-4B92-B28D-06A9504F3743}|Backend_Online_3\\Backend_Online_3.csproj|solutionrelative:backend_online_3\\data\\backendonline3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,215 +86,238 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "InternController.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\InternController.cs",
+              "RelativeDocumentMoniker": "Backend_Online_3\\Controllers\\InternController.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\InternController.cs",
+              "RelativeToolTip": "Backend_Online_3\\Controllers\\InternController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:23:14.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Backend_Online_3\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Backend_Online_3\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:34:29.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "Backend_Online_3\\Service\\JwtService.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Service\\JwtService.cs",
+              "RelativeToolTip": "Backend_Online_3\\Service\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:29:46.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AllowAccessController.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Controllers\\AllowAccessController.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\AllowAccessController.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Controllers\\AllowAccessController.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Controllers\\AllowAccessController.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\AllowAccessController.cs",
               "RelativeToolTip": "Backend_Online_3\\Controllers\\AllowAccessController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwDYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:02:46.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:02:46.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "RoleController.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Controllers\\RoleController.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Controllers\\RoleController.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\RoleController.cs",
               "RelativeToolTip": "Backend_Online_3\\Controllers\\RoleController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:02:29.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:02:29.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Controllers\\UserController.cs",
               "RelativeToolTip": "Backend_Online_3\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T07:02:13.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AllowAccessService.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Service\\AllowAccessService.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Service\\AllowAccessService.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Service\\AllowAccessService.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Service\\AllowAccessService.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Service\\AllowAccessService.cs",
               "RelativeToolTip": "Backend_Online_3\\Service\\AllowAccessService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:01:32.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:01:32.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "RoleService.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Service\\RoleService.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Service\\RoleService.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Service\\RoleService.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Service\\RoleService.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Service\\RoleService.cs",
               "RelativeToolTip": "Backend_Online_3\\Service\\RoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:01:10.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:01:10.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Service\\UserService.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Service\\UserService.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Service\\UserService.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Service\\UserService.cs",
               "RelativeToolTip": "Backend_Online_3\\Service\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T07:00:53.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T07:00:53.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "IAllowAccessService.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Irepository\\IAllowAccessService.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Irepository\\IAllowAccessService.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Irepository\\IAllowAccessService.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Irepository\\IAllowAccessService.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Irepository\\IAllowAccessService.cs",
               "RelativeToolTip": "Backend_Online_3\\Irepository\\IAllowAccessService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-25T07:00:26.398Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "IRoleService.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Irepository\\IRoleService.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Irepository\\IRoleService.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Irepository\\IRoleService.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Irepository\\IRoleService.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Irepository\\IRoleService.cs",
               "RelativeToolTip": "Backend_Online_3\\Irepository\\IRoleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T06:59:31.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T06:59:31.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Irepository\\IUserService.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Irepository\\IUserService.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Irepository\\IUserService.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Irepository\\IUserService.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Irepository\\IUserService.cs",
               "RelativeToolTip": "Backend_Online_3\\Irepository\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T06:59:00.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T06:59:00.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Program.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Program.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Program.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Program.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Program.cs",
               "RelativeToolTip": "Backend_Online_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T02:52:55.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T02:52:55.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\appsettings.json",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\appsettings.json",
               "RelativeDocumentMoniker": "Backend_Online_3\\appsettings.json",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\appsettings.json",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\appsettings.json",
               "RelativeToolTip": "Backend_Online_3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-23T02:48:02.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T02:48:02.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "BackendOnline3DbContext.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Data\\BackendOnline3DbContext.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Data\\BackendOnline3DbContext.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Data\\BackendOnline3DbContext.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Data\\BackendOnline3DbContext.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Data\\BackendOnline3DbContext.cs",
               "RelativeToolTip": "Backend_Online_3\\Data\\BackendOnline3DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T02:29:31.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T02:29:31.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllowAccess.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Models\\AllowAccess.cs",
+              "RelativeDocumentMoniker": "Backend_Online_3\\Models\\AllowAccess.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Models\\AllowAccess.cs",
+              "RelativeToolTip": "Backend_Online_3\\Models\\AllowAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T02:25:37.77Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AllowAccess.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Models\\AllowAccess.cs",
-              "RelativeDocumentMoniker": "Backend_Online_3\\Models\\AllowAccess.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Models\\AllowAccess.cs",
-              "RelativeToolTip": "Backend_Online_3\\Models\\AllowAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T02:25:37.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Role.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Models\\Role.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Models\\Role.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Models\\Role.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Models\\Role.cs",
               "RelativeToolTip": "Backend_Online_3\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T02:23:12.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T02:23:12.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Models\\User.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Models\\User.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Models\\User.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Models\\User.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Models\\User.cs",
               "RelativeToolTip": "Backend_Online_3\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T02:20:28.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T02:20:28.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Intern.cs",
-              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Models\\Intern.cs",
+              "DocumentMoniker": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Models\\Intern.cs",
               "RelativeDocumentMoniker": "Backend_Online_3\\Models\\Intern.cs",
-              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\Backend_Online_3\\Backend_Online_3\\Models\\Intern.cs",
+              "ToolTip": "D:\\ISC_HG\\Bai_Tap\\Online_03\\BE3_copy2\\Backend_Online_3\\Models\\Intern.cs",
               "RelativeToolTip": "Backend_Online_3\\Models\\Intern.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wCAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T02:18:16.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T02:18:16.016Z"
             }
           ]
         }
